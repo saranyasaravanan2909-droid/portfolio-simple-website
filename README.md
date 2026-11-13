@@ -18,7 +18,7 @@ This is my personal portfolio website created using HTML and basic CSS as part o
 This project was developed to practice and improve my HTML and CSS skills.
 
 
-## How to Viewe
+## How to View
 You can access my personal portfolio website by visiting the link below:
 
 [View My Portfolio](YOUR-WEBSITE-LINK)
