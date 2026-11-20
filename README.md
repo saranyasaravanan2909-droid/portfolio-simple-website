@@ -21,6 +21,6 @@ This project was developed to practice and improve my HTML and CSS skills.
 ## How to View
 You can access my personal portfolio website by visiting the link below:
 
-[View My Portfolio](YOUR-WEBSITE-LINK)
+[View My Portfolio](https://saranyasaravanan2909-droid.github.io/portfolio-simple-website/)
 
 Thank you for taking the time to explore my portfolio. I appreciate your interest!
